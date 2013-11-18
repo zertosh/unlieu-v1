@@ -1,7 +1,5 @@
-This is the original code that ran unlieu.com from August 27, 2011 through September 10, 2012.
+**This code is abandoned and doe not work. Contractual obligations force me to keep repo up.**
 
-The code is very crude. Please don't judge.
-
-#### Password/Key Dependencies
-+ d.php & u.php require keys for S3.
-+ common.php requires user/pass for SMSified.
+###### Config
++ S3 keys go in `d.php` & `u.php`.
++ SMSified user/pass goes in `common.php`.
